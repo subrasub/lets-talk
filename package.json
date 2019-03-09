@@ -1,0 +1,19 @@
+{
+  "name": "talk-to-me",
+  "version": "1.0.0",
+  "description": "chat application hosted on AWS/Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subrasub/Talk-to-me.git"
+  },
+  "author": "Subramanian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subrasub/Talk-to-me/issues"
+  },
+  "homepage": "https://github.com/subrasub/Talk-to-me#readme"
+}
