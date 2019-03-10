@@ -28,10 +28,17 @@ ul {
     width: 100%;
 }
 
+.log {
+    color: gray;
+    font-size: 70%;
+    margin: 5px;
+    text-align: center;
+  }
+
 /* Login Page */
 
 .login.page {
-    background-color: #2e80ca;
+    background-color: #fff;
 }
 
 .login.page .form {
@@ -47,7 +54,7 @@ ul {
 .login.page .form .username-input {
     background-color: transparent;
     border: none;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #000;
     outline: none;
     padding-bottom: 10px;
     text-align: center;
@@ -64,10 +71,10 @@ ul {
 }
 
 .login.page .title, .login.page .username-input {
-    color: #fff;
+    color: #000;
 }
 
-.chat-page {
+.chat.page {
     display: none;
 }
 
@@ -82,6 +89,12 @@ ul {
 .chat-window {
     height: 100%;
     padding-bottom: 60px;
+}
+
+.message {
+    border-bottom: 1px solid #80808021;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
 }
 
 .messages {
