@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/subrasub/Talk-to-me/issues"
   },
-  "homepage": "https://github.com/subrasub/Talk-to-me#readme"
+  "homepage": "https://github.com/subrasub/Talk-to-me#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0"
+  }
 }
