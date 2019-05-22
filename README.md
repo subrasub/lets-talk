@@ -1,12 +1,11 @@
 # Lets-Talk
 
-Built using Node.js, Express and Socket.io
-Built mainly to understnad the basics of Docker
+Built using Node.js, Express and Socket.io 🔌
+Built mainly to understand the basics of Docker 🐳 
 
 ## Login Page
-![Alt Text](./resources/login.jpg)
+![alt text](https://github.com/subrasub/lets-talk/blob/master/resources/login.JPG "Login Window")
 
 ## Chat Window
-![Alt Text](./resources/chat.jpg)|
- 
+![alt text](https://github.com/subrasub/lets-talk/blob/master/resources/chat.JPG "Chat Window")
  
